@@ -26,8 +26,6 @@ with open('starlink_stats.csv', mode='a') as csv_file:
         "date",
         "time",
         "destination",
-        "download",
-        "upload",
         "packet_transmit",
         "packet_receive",
         "packet_loss_count",
